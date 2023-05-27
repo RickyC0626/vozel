@@ -1,7 +1,13 @@
 # vozel
 A voxel engine made by someone crazy enough to do it from scratch
 
-# The Crazy Roadmap
+## Resources
+- [LearnOpenGL](https://learnopengl.com)
+- [The Book of Shaders](https://thebookofshaders.com)
+- [Wikibooks - OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming#Setting_Up_OpenGL)
+- [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/home)
+
+## The Crazy Roadmap
 - Learn the basics of computer graphics:
   - Become familiar with fundamental concepts like vertices, polygons, shaders, rendering pipelines
 - Start with WebGL using TypeScript
